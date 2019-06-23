@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b6e5159-3bbf-4320-a5c9-b09b73145393" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/adminPage/AdminLogin.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/application/ApplicationLogin.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/landingPage/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/landingPage/About.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/landingPage/Goals.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/landingPage/Goals.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/landingPage/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/landingPage/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/landingPage/LandingPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/landingPage/LandingPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/landingPage/Services.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/landingPage/Services.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/landingPage/Testimonials.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/landingPage/Testimonials.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sharedComponents/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sharedComponents/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,158 +30,67 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/store.js">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="576">
+              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="uml://JavaScript-modules-diagram//Users/donaldwhitely/WebstormProjects/emerelectric/src">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JavaScript-modules-diagram</ID>
-              <OriginalElement>$PROJECT_DIR$/src</OriginalElement>
-              <nodes>
-                <node x="322.0" y="690.0">$PROJECT_DIR$/src/components/App.jsx#Footer#130;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#Navigation#74;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#React#7;</node>
-                <node x="142.0" y="859.0">$PROJECT_DIR$/src/components/sharedComponents/Footer.jsx#React#7;</node>
-                <node x="0.0" y="478.0">$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx#React#7;</node>
-                <node x="237.7507462686567" y="77.93134328358208">applyMiddleware;combineReducers;/Users/donaldwhitely/WebstormProjects/emerelectric/node_modules/redux/index.d.ts#createStore#10714;</node>
-                <node x="787.0" y="157.0">$PROJECT_DIR$/node_modules/redux-thunk/index.d.ts</node>
-                <node x="245.0" y="610.0">$PROJECT_DIR$/node_modules/react/index.js</node>
-                <node x="376.0" y="389.0">$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;</node>
-                <node x="520.0" y="677.0">$PROJECT_DIR$/node_modules/react-redux/es/index.js#Provider#7;</node>
-                <node x="568.0" y="0.0">$PROJECT_DIR$/src/reducers/index.js#combineReducers#8;</node>
-                <node x="764.0" y="401.0">$PROJECT_DIR$/node_modules/redux-devtools-extension/index.js#composeWithDevTools#83;</node>
-                <node x="317.0" y="233.0">$PROJECT_DIR$/src/index.scss</node>
-                <node x="536.0" y="505.0">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js#render#779959;</node>
-                <node x="37.0" y="300.0">$PROJECT_DIR$/node_modules/react-router-dom/esm/react-router-dom.js#BrowserRouter#622;</node>
-                <node x="118.0" y="709.0">$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts</node>
-                <node x="582.0" y="224.0">$PROJECT_DIR$/src/store.js#applyMiddleware#21;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#composeWithDevTools#60;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#createStore#8;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#rootReducer#154;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#thunk#121;</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="$PROJECT_DIR$/src/store.js#applyMiddleware#21;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#composeWithDevTools#60;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#createStore#8;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#rootReducer#154;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#thunk#121;" target="$PROJECT_DIR$/node_modules/redux-thunk/index.d.ts">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/reducers/index.js#combineReducers#8;" target="applyMiddleware;combineReducers;/Users/donaldwhitely/WebstormProjects/emerelectric/node_modules/redux/index.d.ts#createStore#10714;">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/components/sharedComponents/Footer.jsx#React#7;" target="$PROJECT_DIR$/node_modules/react/index.js">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/src/store.js#applyMiddleware#21;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#composeWithDevTools#60;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#createStore#8;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#rootReducer#154;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#thunk#121;">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/components/App.jsx#Footer#130;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#Navigation#74;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#React#7;" target="$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx#React#7;">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/src/index.scss">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/src/components/App.jsx#Footer#130;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#Navigation#74;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#React#7;">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/components/sharedComponents/Footer.jsx#React#7;" target="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx#React#7;" target="$PROJECT_DIR$/node_modules/react/index.js">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/store.js#applyMiddleware#21;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#composeWithDevTools#60;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#createStore#8;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#rootReducer#154;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#thunk#121;" target="applyMiddleware;combineReducers;/Users/donaldwhitely/WebstormProjects/emerelectric/node_modules/redux/index.d.ts#createStore#10714;">
-                  <point x="-3.1999195129560007" y="3.841941580842075" />
-                  <point x="-3.199919512956008" y="3.8419415808421036" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/store.js#applyMiddleware#21;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#composeWithDevTools#60;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#createStore#8;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#rootReducer#154;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#thunk#121;" target="$PROJECT_DIR$/src/reducers/index.js#combineReducers#8;">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/components/App.jsx#Footer#130;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#Navigation#74;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#React#7;" target="$PROJECT_DIR$/node_modules/react/index.js">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/components/App.jsx#Footer#130;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#Navigation#74;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#React#7;" target="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/node_modules/react/index.js">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/components/App.jsx#Footer#130;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#Navigation#74;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#React#7;" target="$PROJECT_DIR$/src/components/sharedComponents/Footer.jsx#React#7;">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/node_modules/react-router-dom/esm/react-router-dom.js#BrowserRouter#622;">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/store.js#applyMiddleware#21;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#composeWithDevTools#60;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#createStore#8;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#rootReducer#154;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#thunk#121;" target="$PROJECT_DIR$/node_modules/redux-devtools-extension/index.js#composeWithDevTools#83;">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx#React#7;" target="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js#render#779959;">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/node_modules/react-redux/es/index.js#Provider#7;">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.7227615965480043" x="97.42537313432842" y="322.05970149253733" />
-              <SelectedNodes>
-                <node>applyMiddleware;combineReducers;/Users/donaldwhitely/WebstormProjects/emerelectric/node_modules/redux/index.d.ts#createStore#10714;</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>All</Category>
-              </Categories>
-              <VISIBILITY>Details</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
+        <entry file="file://$PROJECT_DIR$/src/components/landingPage/About.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+            <state relative-caret-position="593">
+              <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
-                <element signature="e#71#108#0" expanded="true" />
-                <element signature="e#156#165#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/App.jsx">
+        <entry file="file://$PROJECT_DIR$/src/components/landingPage/Services.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="593">
+              <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/landingPage/Testimonials.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="611">
+              <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/landingPage/Goals.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -176,10 +99,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/landingPage/LandingPage.jsx">
+        <entry file="file://$PROJECT_DIR$/src/components/App.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+            <state relative-caret-position="342">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="17" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -188,51 +111,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/landingPage/Header.jsx">
+        <entry file="file://$PROJECT_DIR$/src/components/adminPage/AdminLogin.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="108">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/landingPage/About.jsx">
+        <entry file="file://$PROJECT_DIR$/src/components/application/ApplicationLogin.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="216">
+              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/landingPage/Goals.jsx">
+        <entry file="file://$PROJECT_DIR$/src/components/landingPage/LandingPage.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/landingPage/Services.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/landingPage/Testimonials.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="162">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="React JSX" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -241,21 +156,27 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/App.jsx" />
-        <option value="$PROJECT_DIR$/src/components/sharedComponents/Footer.jsx" />
-        <option value="$PROJECT_DIR$/src/index.scss" />
-        <option value="$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx" />
         <option value="$PROJECT_DIR$/src/reducers/index.js" />
         <option value="$PROJECT_DIR$/src/store.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/components/App.jsx" />
+        <option value="$PROJECT_DIR$/src/index.scss" />
         <option value="$PROJECT_DIR$/src/components/landingPage/Header.jsx" />
+        <option value="$PROJECT_DIR$/src/components/sharedComponents/Footer.jsx" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/components/landingPage/About.jsx" />
-        <option value="$PROJECT_DIR$/src/components/landingPage/Goals.jsx" />
         <option value="$PROJECT_DIR$/src/components/landingPage/Services.jsx" />
         <option value="$PROJECT_DIR$/src/components/landingPage/Testimonials.jsx" />
+        <option value="$PROJECT_DIR$/src/components/landingPage/Goals.jsx" />
         <option value="$PROJECT_DIR$/src/components/landingPage/LandingPage.jsx" />
+        <option value="$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx" />
+        <option value="$PROJECT_DIR$/src/components/application/applicationLogin.jsx" />
+        <option value="$PROJECT_DIR$/src/components/adminPage/AdminLogin.jsx" />
+        <option value="$PROJECT_DIR$/src/components/App.jsx" />
       </list>
     </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="33" />
@@ -263,7 +184,9 @@
     <option name="width" value="1440" />
     <option name="height" value="821" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -273,30 +196,30 @@
         <subPane>
           <expand>
             <path>
-              <item name="emerelectric" type="b2602c69:ProjectViewProjectNode" />
-              <item name="emerelectric" type="462c0819:PsiDirectoryNode" />
+              <item name="ee-lanesville" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ee-lanesville" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="emerelectric" type="b2602c69:ProjectViewProjectNode" />
-              <item name="emerelectric" type="462c0819:PsiDirectoryNode" />
+              <item name="ee-lanesville" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ee-lanesville" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="emerelectric" type="b2602c69:ProjectViewProjectNode" />
-              <item name="emerelectric" type="462c0819:PsiDirectoryNode" />
+              <item name="ee-lanesville" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ee-lanesville" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="emerelectric" type="b2602c69:ProjectViewProjectNode" />
-              <item name="emerelectric" type="462c0819:PsiDirectoryNode" />
+              <item name="ee-lanesville" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ee-lanesville" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="landingPage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="emerelectric" type="b2602c69:ProjectViewProjectNode" />
-              <item name="emerelectric" type="462c0819:PsiDirectoryNode" />
+              <item name="ee-lanesville" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ee-lanesville" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="sharedComponents" type="462c0819:PsiDirectoryNode" />
@@ -376,27 +299,27 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5765000" />
+    <option name="totallyTimeSpent" value="7215000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1440" height="821" extended-state="6" />
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980299" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49930555" weight="0.32970026" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50069445" side_tool="true" weight="0.28982037" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.32934132" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.32856005" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49930555" visible="true" weight="0.3293556" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50069445" side_tool="true" weight="0.28982037" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -426,39 +349,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/App.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/sharedComponents/Footer.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="51" selection-start-column="51" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-498" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.jsx" />
     <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1528,11 +1419,12 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="0.02538251690190962" x="15530.995327102803" y="13188.06074766355" />
+          <settings layout="Hierarchic Group" zoom="0.02538251690190962" x="15531.0" y="13188.0" />
           <SelectedNodes />
           <Categories>
             <Category>All</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>Details</VISIBILITY>
         </state>
       </provider>
@@ -1551,11 +1443,12 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="0.9164882226980728" x="508.9018691588785" y="355.52570093457945" />
+          <settings layout="Hierarchic Group" zoom="0.9164882226980728" x="509.0" y="356.0" />
           <SelectedNodes />
           <Categories>
             <Category>All</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>Details</VISIBILITY>
         </state>
       </provider>
@@ -1594,6 +1487,18 @@
           </nodes>
           <notes />
           <edges>
+            <edge source="$PROJECT_DIR$/src/store.js#applyMiddleware#21;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#composeWithDevTools#60;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#createStore#8;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#rootReducer#154;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#thunk#121;" target="$PROJECT_DIR$/node_modules/redux-devtools-extension/index.js#composeWithDevTools#83;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/src/store.js#applyMiddleware#21;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#composeWithDevTools#60;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#createStore#8;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#rootReducer#154;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#thunk#121;" target="$PROJECT_DIR$/src/reducers/index.js#combineReducers#8;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/node_modules/react-router-dom/esm/react-router-dom.js#BrowserRouter#622;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
             <edge source="$PROJECT_DIR$/src/store.js#applyMiddleware#21;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#composeWithDevTools#60;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#createStore#8;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#rootReducer#154;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#thunk#121;" target="$PROJECT_DIR$/node_modules/redux-thunk/index.d.ts">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
@@ -1602,11 +1507,35 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="$PROJECT_DIR$/src/components/sharedComponents/Footer.jsx#React#7;" target="$PROJECT_DIR$/node_modules/react/index.js">
+            <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/src/store.js#applyMiddleware#21;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#composeWithDevTools#60;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#createStore#8;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#rootReducer#154;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#thunk#121;">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/src/store.js#applyMiddleware#21;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#composeWithDevTools#60;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#createStore#8;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#rootReducer#154;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#thunk#121;">
+            <edge source="$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx#React#7;" target="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/node_modules/react/index.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js#render#779959;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/src/components/App.jsx#Footer#130;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#Navigation#74;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#React#7;" target="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/src/components/App.jsx#Footer#130;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#Navigation#74;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#React#7;" target="$PROJECT_DIR$/src/components/sharedComponents/Footer.jsx#React#7;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/src/index.scss">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
@@ -1614,7 +1543,15 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/src/index.scss">
+            <edge source="$PROJECT_DIR$/src/components/App.jsx#Footer#130;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#Navigation#74;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#React#7;" target="$PROJECT_DIR$/node_modules/react/index.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/node_modules/react-redux/es/index.js#Provider#7;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx#React#7;" target="$PROJECT_DIR$/node_modules/react/index.js">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
@@ -1626,119 +1563,139 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx#React#7;" target="$PROJECT_DIR$/node_modules/react/index.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
             <edge source="$PROJECT_DIR$/src/store.js#applyMiddleware#21;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#composeWithDevTools#60;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#createStore#8;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#rootReducer#154;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#thunk#121;" target="applyMiddleware;combineReducers;/Users/donaldwhitely/WebstormProjects/emerelectric/node_modules/redux/index.d.ts#createStore#10714;">
               <point x="-3.1999195129560007" y="3.841941580842075" />
               <point x="-3.199919512956008" y="3.8419415808421036" />
             </edge>
-            <edge source="$PROJECT_DIR$/src/store.js#applyMiddleware#21;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#composeWithDevTools#60;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#createStore#8;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#rootReducer#154;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#thunk#121;" target="$PROJECT_DIR$/src/reducers/index.js#combineReducers#8;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/components/App.jsx#Footer#130;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#Navigation#74;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#React#7;" target="$PROJECT_DIR$/node_modules/react/index.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/components/App.jsx#Footer#130;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#Navigation#74;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#React#7;" target="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/node_modules/react/index.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/components/App.jsx#Footer#130;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#Navigation#74;/Users/donaldwhitely/WebstormProjects/emerelectric/src/components/App.jsx#React#7;" target="$PROJECT_DIR$/src/components/sharedComponents/Footer.jsx#React#7;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/node_modules/react-router-dom/esm/react-router-dom.js#BrowserRouter#622;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/store.js#applyMiddleware#21;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#composeWithDevTools#60;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#createStore#8;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#rootReducer#154;/Users/donaldwhitely/WebstormProjects/emerelectric/src/store.js#thunk#121;" target="$PROJECT_DIR$/node_modules/redux-devtools-extension/index.js#composeWithDevTools#83;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx#React#7;" target="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js#render#779959;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/index.js#App#222;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Provider#79;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#React#7;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#Router#164;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#index.scss#252;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#render#35;/Users/donaldwhitely/WebstormProjects/emerelectric/src/index.js#store#116;" target="$PROJECT_DIR$/node_modules/react-redux/es/index.js#Provider#7;">
+            <edge source="$PROJECT_DIR$/src/components/sharedComponents/Footer.jsx#React#7;" target="$PROJECT_DIR$/node_modules/react/index.js">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.7227615965480043" x="97.42537313432842" y="322.05970149253733" />
+          <settings layout="Hierarchic Group" zoom="0.7227615965480043" x="97.0" y="322.0" />
           <SelectedNodes>
             <node>applyMiddleware;combineReducers;/Users/donaldwhitely/WebstormProjects/emerelectric/node_modules/redux/index.d.ts#createStore#10714;</node>
           </SelectedNodes>
           <Categories>
             <Category>All</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>Details</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App.jsx">
+    <entry file="file://$PROJECT_DIR$/src/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="1458">
+          <caret line="81" column="31" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/landingPage/Header.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/landingPage/Header.jsx">
+    <entry file="file://$PROJECT_DIR$/src/components/sharedComponents/Footer.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="18">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/landingPage/About.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/landingPage/Goals.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="593">
+          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/landingPage/Services.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="593">
+          <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/landingPage/Testimonials.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="611">
+          <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/landingPage/Goals.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/landingPage/LandingPage.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        <state relative-caret-position="162">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sharedComponents/Navigation.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/adminPage/AdminLogin.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/application/ApplicationLogin.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="17" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

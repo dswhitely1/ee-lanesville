@@ -7,13 +7,13 @@ import Goals from "./Goals";
 
 const LandingPage = () => {
     return (
-        <>
+        <div id="page-top">
             <Header/>
             <About/>
             <Services/>
             <Testimonials/>
             <Goals/>
-        </>
+        </div>
     )
 };
 
