@@ -1,5 +1,14 @@
 import React from 'react';
+import Navigation from './sharedComponents/Navigation';
+import Footer from "./sharedComponents/Footer";
 
-const App = () => <h1>Emergency Electric Inc</h1>
+const App = () => {
+    return (
+        <>
+            <Navigation/>
+            <Footer/>
+        </>
+    )
+};
 
 export default App;
