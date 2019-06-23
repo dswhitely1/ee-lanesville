@@ -1,11 +1,14 @@
 import React, { Component } from 'react';
+import { Container } from 'react-bootstrap';
 
 class ApplicationLogin extends Component {
   render() {
     return (
-      <div>
+      <header className='d-flex ee-header-section'>
+        <Container className='text-center my-auto'>
         <h1>Application</h1>
-      </div>
+        </Container>
+      </header>
     );
   }
 }
